@@ -1,0 +1,27 @@
+
+*{
+  box-sizing: border-box;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+
+.app{
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(1, 0, 21);
+  flex-direction: column;
+}
+
+h2{
+  font-size: 30px;
+  font-weight: bold;
+  color: rgb(227, 88, 8);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
