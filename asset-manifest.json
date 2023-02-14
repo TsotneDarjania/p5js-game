@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/p5js-game/static/css/main.d9191640.css",
+    "main.js": "/p5js-game/static/js/main.b4d88880.js",
+    "static/media/enemy.png": "/p5js-game/static/media/enemy.5e03d69d5e00068d4ce0.png",
+    "static/media/player.png": "/p5js-game/static/media/player.dd31ab9be490f7034114.png",
+    "static/media/background.jpg": "/p5js-game/static/media/background.49257c86575242f856b2.jpg",
+    "index.html": "/p5js-game/index.html",
+    "main.d9191640.css.map": "/p5js-game/static/css/main.d9191640.css.map",
+    "main.b4d88880.js.map": "/p5js-game/static/js/main.b4d88880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9191640.css",
+    "static/js/main.b4d88880.js"
+  ]
+}
